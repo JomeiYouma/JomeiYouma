@@ -1,5 +1,5 @@
 <a href="https://jomeiyouma.github.io/portfolio/">
-  <img src="assets/banner.svg" alt="Youma — Creative Developer. Raphaël Madoré, full-stack web apps and interactive experiences." width="100%">
+  <img src="assets/banner.svg" alt="Madoré Raphaël — Creative Developer" width="100%">
 </a>
 
 <p align="center">
