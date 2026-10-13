@@ -64,3 +64,22 @@ Web developer based in France, trained in multimedia and web development (BUT MM
 <p>
   <img src="https://skillicons.dev/icons?i=express,php,laravel,symfony,python,flask,qt,mysql,postgres,docker&theme=dark" alt="Express, PHP, Laravel, Symfony, Python, Flask, Qt, MySQL, PostgreSQL, Docker" height="44">
 </p>
+
+## Certifications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Opquast · Web quality</h3>
+      <p><strong>891 / 1000</strong>, Advanced level</p>
+      <p>Opquast's reference of web quality rules: accessibility, SEO, performance, privacy and user experience. Issued on 15 April 2026, valid until 15 April 2029.</p>
+      <p><a href="https://oqs.li/HFON4R">Verify on the Opquast directory</a> · <a href="https://jomeiyouma.github.io/portfolio/assets/documents/opquast_certificate_2026.pdf">Certificate (PDF)</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Claude Academy · Developer courses</h3>
+      <p><strong>Completed</strong></p>
+      <p>Anthropic's training on building software with Claude and building Claude into products.</p>
+      <p><a href="https://academy.claude.com/">Claude Academy</a></p>
+    </td>
+  </tr>
+</table>
