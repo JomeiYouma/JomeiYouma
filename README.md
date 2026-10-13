@@ -49,6 +49,7 @@ Web developer based in France, trained in multimedia and web development (BUT MM
 
 ## More projects
 
+- **[SanteCall IA](https://santecall.ai)**: AI voice assistant that answers the phone for medical practices. Team project with private code; contributions to the platform's emails, reports and admin dashboard. Python, FastAPI, PostgreSQL.
 - **[Pocket Deck Lab](https://github.com/JomeiYouma/pocket-deck-lab)**: scores Pokémon TCG Pocket decks from exact probabilities and Monte-Carlo simulation, with a deck builder and a versus mode. React, TypeScript.
 - **[Parici](https://parici-murex.vercel.app)**: finds concerts, exhibitions and outings in Paris from the city's open data. React 19, TypeScript, TanStack Query. [Code](https://github.com/JomeiYouma/parici)
 - **[Pixelate Studio](https://pixelate-studio-chi.vercel.app)**: pixelates an image on a grid and exports a transparent PNG, entirely in the browser. React, TypeScript, Canvas. [Code](https://github.com/JomeiYouma/pixelate-studio)
